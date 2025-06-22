@@ -1,73 +1,68 @@
-# Welcome to your Lovable project
+Welcome to your Design Your Dream Build Name project
+Project info
+URL: https://design-your-dream-flax.vercel.app/
+(Update this with your actual project URL or platform)
 
-## Project info
+How can I edit this code?
+There are several ways to edit your application:
 
-**URL**: https://lovable.dev/projects/7d76cef3-c631-436a-90db-6c7e23c1bda1
+1. Use the Online Editor
+Visit the Design Your Dream Build Name Project Editor and start customizing your building design or codebase.
+Changes will be saved automatically and reflected in your project repository.
 
-## How can I edit this code?
+2. Use Your Preferred IDE Locally
+You can clone the repo and make changes using your local development environment.
 
-There are several ways of editing your application.
+⚙️ Make sure Node.js and npm are installed (Install using nvm)
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/7d76cef3-c631-436a-90db-6c7e23c1bda1) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+Steps:
+sh
+Copy
+Edit
+# Step 1: Clone the repository using the Git URL.
 git clone <YOUR_GIT_URL>
 
 # Step 2: Navigate to the project directory.
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Step 3: Install dependencies.
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start development server.
 npm run dev
-```
+3. Edit Directly on GitHub
+Navigate to the file you want to edit.
 
-**Edit a file directly in GitHub**
+Click the ✏️ "Edit" button.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Commit the changes — they’ll reflect in your project setup.
 
-**Use GitHub Codespaces**
+4. Use GitHub Codespaces
+On your repo page, click Code > Codespaces.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Launch a new Codespace.
 
-## What technologies are used for this project?
+Start editing directly in the browser and commit changes when done.
 
-This project is built with:
+Technologies Used
+Vite
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+TypeScript
 
-## How can I deploy this project?
+React
 
-Simply open [Lovable](https://lovable.dev/projects/7d76cef3-c631-436a-90db-6c7e23c1bda1) and click on Share -> Publish.
+shadcn/ui
 
-## Can I connect a custom domain to my Lovable project?
+Tailwind CSS
 
-Yes, you can!
+How to Deploy
+From your online editor or local terminal, click or run the deploy command to publish your project.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Custom Domain Support
+To connect a custom domain:
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Go to your project settings.
+
+Open the Domains section.
+
+Click Connect Domain and follow the instructions.
