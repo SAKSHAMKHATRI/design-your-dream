@@ -1,7 +1,7 @@
 Welcome to your Design Your Dream Build Name project
 Project info
 URL: https://design-your-dream-flax.vercel.app/
-(Update this with your actual project URL or platform)
+
 
 How can I edit this code?
 There are several ways to edit your application:
